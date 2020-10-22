@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&show_icons=true&theme=dracula)
+- 🔭 I’m currently working as PHP Software developer
+- 🌱 I’m currently learning NodeJS, ReactJs and React Native
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&show_icons=true&theme=dracula)
 
 <!--
 **rodrigoprobst/rodrigoprobst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
