@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as PHP Software developer
+- 🔭 I’m currently working as PHP Software Developer
 - 🌱 I’m currently learning NodeJS, ReactJs and React Native
 - ⚡ Fun fact: These are my stats on github
 
