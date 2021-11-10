@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as PHP Software Developer
-- 🌱 I’m currently learning NodeJS, ReactJs and React Native
+- 🌱 I’m currently most dadicated to learn NodeJS, ReactJs and React Native
+- 🌱 I’m always learning more about languages I already know!
 - ⚡ Fun fact: These are my stats on github
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&show_icons=true&theme=dracula)
