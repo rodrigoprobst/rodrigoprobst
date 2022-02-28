@@ -5,6 +5,13 @@
 - 🌱 I’m always learning more about languages I already know!
 - ⚡ Fun fact: These are my stats on github
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoprobst&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoprobst&repo=convoychat" />
+</a>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoprobst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
