@@ -6,7 +6,7 @@
 - ⚡ Fun fact: These are my stats on github
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoprobst&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoprobst&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
