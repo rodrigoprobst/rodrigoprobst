@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as PHP Software Developer
-- 🌱 I’m currently most dadicated to learn NodeJS, ReactJs and React Native
 - 🌱 I’m always learning more about languages I already know!
+- 📫 How to reach me: [e-mail] (becker.rodrigo@outlook.com)
 - ⚡ Fun fact: These are my stats on github
 
 
