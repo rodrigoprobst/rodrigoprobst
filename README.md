@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as PHP Software Developer
-- 🌱 I’m always learning more about languages I already know!
+- 🌱 I’m currently learning laravel on a work project
 - 📫 How to reach me: [becker.rodrigo@outlook.com](mailto:becker.rodrigo@outlook.com)
 - ⚡ Fun fact: These are my stats on github
 
